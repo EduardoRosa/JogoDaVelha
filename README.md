@@ -15,7 +15,7 @@
 ## Como Iniciar
 
 - Baixe a pasta JogoDaVelha que contém o executável;
-- Abra a pasta e execute o arquivo JogoDaVelha.exe;
+- Descompacte, abra a pasta e execute o arquivo JogoDaVelha.exe;
 - Uma tela do CMD se abrirá e mostrará o tabuleiro para início do jogo.
 
 ## Dentro do jogo
